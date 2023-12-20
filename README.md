@@ -9,8 +9,8 @@
 
 
 ## Habilidades
-![Java](https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Banco de Dados Oracle](https://img.shields.io/badge/BancodeDadosOracle-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=java&logoColor=white)
+![Banco de Dados Oracle](https://img.shields.io/badge/BancodeDadosOracle-1572B6?style=for-the-badge&logo=oracle&logoColor=white)
 
 
 
