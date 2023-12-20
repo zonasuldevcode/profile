@@ -12,6 +12,7 @@
 ![Java](https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=java&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-1572B6?style=for-the-badge&logo=oracle&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-1572B7?style=for-the-badge&logo=spring&logoColor=green)
+![Angular](https://img.shields.io/badge/angular-1572B8?style=for-the-badge&logo=angular&logoColor=green)
 
 
 
