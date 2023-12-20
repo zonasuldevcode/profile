@@ -11,7 +11,7 @@
 ## Habilidades
 ![Java](https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=java&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-1572B6?style=for-the-badge&logo=oracle&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring Boot-1572B7?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-1572B7?style=for-the-badge&logo=springboot&logoColor=white)
 
 
 
